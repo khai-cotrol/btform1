@@ -1,0 +1,20 @@
+table{
+    width: 60%;
+    font-size: 30px;
+    position: center;
+    margin-left: 200px;
+    background-color: white;
+    border-collapse: collapse;
+    border:20px solid  aqua;
+}
+h1{
+    background-color: orange;
+    color: white;
+}
+.tex{
+    color: blue;
+}
+body{
+    color: red;
+    margin: 20px 10px;
+}
